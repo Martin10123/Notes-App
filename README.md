@@ -14,7 +14,7 @@
 
 # Versionado 📌
 
-- Esta app fue versionado con Git. 🤠
+- Esta app fue versionado con Git, aunque tampoco hice muchos commits de esta, porque no conocia muy bien git, y no sabia que se podia hacer todas estas cosas. 🤠
 
 ## Autores ✒️
 
